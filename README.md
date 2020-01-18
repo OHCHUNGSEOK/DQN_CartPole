@@ -7,7 +7,7 @@ Solve 'CartPole-v0' environment : the average score of 100 consecutive episodes 
 training takes about 30 min
 
 ### training score plot
-![score_train](./score_train.png)
+![score_train](./result/score_train.png)
 
 ### test score plot
-![score_test](./score_test.png)
+![score_test](./result/score_test.png)
